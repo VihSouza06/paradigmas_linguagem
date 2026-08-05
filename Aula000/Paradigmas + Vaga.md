@@ -1,4 +1,5 @@
 Linguagem Lua 
+
 Alunos: 
 Bruno Vinicius Coutinho Miante - RA: 24151605-2
 João Marcos Moreira Nunes - RA: 24055168-2
@@ -10,6 +11,9 @@ Vaga Encontrada: https://br.indeed.com/q-linguagem-lua-r%24-20-000-vagas.html?ut
 
 Paradigmas: 
 Procedural: organiza o programa em uma sequência de comandos, utilizando variáveis, funções, estruturas de decisão (if) e repetição (for, while).
+
 Orientado a Objetos: implementado por meio de tables e metatables, permitindo criar objetos, métodos e herança.
+
 Funcional: trata funções como valores, permitindo armazená-las em variáveis, passá-las como parâmetros e retorná-las de outras funções.
+
 Orientado a Dados: utiliza tables como estrutura principal para representar vetores, listas, dicionários, registros e objetos.
