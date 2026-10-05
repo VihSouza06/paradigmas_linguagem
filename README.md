@@ -11,9 +11,9 @@ Repositório criado para armazenar as atividades realizadas na disciplina de **P
 
 ## Atividades 2° Bimestre
 
-- **Aula 006:** Exercicios sobre tipos de dados
-- **Aula 007:** Relatório Exploratório sobre expressões e atribuição
-
+- **Aula 006:** Exercicios sobre tipos de dados.
+- **Aula 007:** Relatório Exploratório sobre expressões e atribuição.
+- **Aula 008:** Exercicios sobre subprogramas.
   
 ---
 
