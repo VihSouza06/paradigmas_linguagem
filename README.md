@@ -14,6 +14,7 @@ Repositório criado para armazenar as atividades realizadas na disciplina de **P
 - **Aula 006:** Exercicios sobre tipos de dados.
 - **Aula 007:** Relatório Exploratório sobre expressões e atribuição.
 - **Aula 008:** Exercicios sobre subprogramas.
+- **Aula 010:** Laboratório de Concorrência.
   
 ---
 
