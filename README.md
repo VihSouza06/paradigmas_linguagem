@@ -16,6 +16,7 @@ Repositório criado para armazenar as atividades realizadas na disciplina de **P
 - **Aula 008:** Exercicios sobre subprogramas.
 - **Aula 010:** Laboratório de Concorrência.
 - **Aula 012:** Laboratório Funcional.
+- **Aula 013:** Laboratório Prolog.
 
 ---
 
